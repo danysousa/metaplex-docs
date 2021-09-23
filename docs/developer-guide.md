@@ -182,7 +182,7 @@ pub struct EditionMarker {
 
 ```
 
-The instruction set for the token metadata contract can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-metadata/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for the token metadata contract can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-metadata/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-metadata/program/src/instruction.rs)
 
 ### Types
 
@@ -525,7 +525,7 @@ pub struct BidderPot {
 
 ```
 
-The instruction set for auction can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/auction/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for auction can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/auction/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/auction/program/src/instruction.rs)
 
 ### Types
 
@@ -858,7 +858,7 @@ pub struct PrizeTrackingTicket {
 }
 ```
 
-The instruction set for metaplex can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/metaplex/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/token-vault/program/src/instruction.rs)
+The instruction set for metaplex can be found here: [https://github.com/metaplex-foundation/metaplex/blob/master/rust/metaplex/program/src/instruction.rs](https://github.com/metaplex-foundation/metaplex/blob/master/rust/metaplex/program/src/instruction.rs)
 
 ### Types
 
